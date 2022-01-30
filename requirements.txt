@@ -1,0 +1,4 @@
+PyGithub
+GitPython
+python-gnupg
+python-dotenv
